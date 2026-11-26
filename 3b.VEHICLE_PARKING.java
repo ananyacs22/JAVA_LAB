@@ -53,7 +53,7 @@ class FourWheeler extends VehicleParking {
 public class Vehicle {
     public static void main(String[] args) {
         ParkingCharge parkingRef;
-kingRef = new TwoWheeler("KA-01-HE-1234", 8);
+        parkingRef = new TwoWheeler("KA-01-HE-1234", 8);
         parkingRef.displayParkingDetails();
         parkingRef = new FourWheeler("DL-03-CC-5678", 15);
         parkingRef.displayParkingDetails();
