@@ -23,5 +23,7 @@ public class Program4_StudentDemo {
         System.out.println("--- Student Details ---");
         s1.display();
         s2.display();
+        System.out.println("ANANYA");
+        System.out.println("1WA25CS033");
     }
 }
